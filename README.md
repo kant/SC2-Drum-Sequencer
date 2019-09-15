@@ -42,7 +42,7 @@ Features
 
 Goals
 -----
-   * Build a pure HTML/CSS/JS drum sequencer (no Flash!) with [SproutCore 2](http://guides.sproutcore20.com/)
+   * Build a pure HTML/CSS/JS drum sequencer (no Flash!) with [SproutCore 2](http://guides.sproutcore.com/)
 
    * Use good MVC patterns
 
